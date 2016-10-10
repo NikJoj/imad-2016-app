@@ -20,7 +20,7 @@ button.onclick=function() {
      };
      
      request.open('GET', 'http://nikjoj.imad.hasura-app.io/counter',true);
-     requesr.send(null);
+     request.send(null);
 
 
 };
