@@ -19,7 +19,7 @@ var articles = {
     heading: 'Article two',
     date: 'Oct 9, 2016',
     content: `<p>
-    Why are still here?.
+    Why are you still here?.
             </p>`
 },
 'article-three' : {
