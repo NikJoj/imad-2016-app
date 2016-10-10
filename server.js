@@ -11,14 +11,7 @@ var articles = {
     heading: 'Article one',
     date: 'Oct 9, 2016',
     content: `<p>
-                this is my first article.this is my first article.this is my first article.this is my first article.this is my first article.this is my first article.
-            </p>
-            <p>
-                this is my first article.this is my first article.this is my first article.this is my first article.this is my first article.this is my first article.
-            </p>
-            
-            <p>
-                this is my first article.this is my first article.this is my first article.this is my first article.this is my first article.this is my first article
+                yeah cool. but why are you even reading this?
             </p>`
 },
 'article-two' : {
@@ -26,7 +19,7 @@ var articles = {
     heading: 'Article two',
     date: 'Oct 9, 2016',
     content: `<p>
-    This is my second article.
+    Why are still here?.
             </p>`
 },
 'article-three' : {
@@ -34,7 +27,7 @@ var articles = {
     heading: 'Article three',
     date: 'Oct 9, 2016',
     content: `<p>
-               this is my thrid article.
+               What's wrong with you? just go.
             </p>`
 }
 };
