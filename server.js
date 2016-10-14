@@ -11,7 +11,7 @@ var articles = {
     heading: 'Article one',
     date: 'Oct 9, 2016',
     content: `<p>
-                yeah cool. but why are you even reading this?
+                This is article one. 
             </p>`
 },
 'article-two' : {
@@ -19,15 +19,15 @@ var articles = {
     heading: 'Article two',
     date: 'Oct 9, 2016',
     content: `<p>
-    Why are you still here?.
-            </p>`
+This is article two.
+</p>`
 },
 'article-three' : {
      title: 'Article three ',
     heading: 'Article three',
     date: 'Oct 9, 2016',
     content: `<p>
-               What's wrong with you? just go.
+This is article three.
             </p>`
 }
 };
