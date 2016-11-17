@@ -35,13 +35,9 @@ var articles = {
                 <p> Email: nikhiljoji07@gmail.com </p>
                 <p> Date of birth: 16-10-1998 </p>
                 <p> Gender: Male </p>
-                <p> Education: Schooling at Toc H Public School, Ernakulam </p>
-                <p>            B.Tech at College Of Engineering Trivandrum (presesnt) </p>
+                <p> Education: Schooling at Toc H Public School, Ernakulam; B.Tech at College Of Engineering Trivandrum (presesnt) </p>
                 <p> Communication skills: English, Malayalam </p>
-                <p> Programming skills: C++ </p>
-                <p>                     Python </p>
-                <p>                     Basic HTML </p>
-                <p>                     MySQL </p>
+                <p> Programming skills: C++, Python, Basic HTML, MySQL </p>
                 <p> Projects: Built Snake game using C++ </p>
                           
 </p>`
