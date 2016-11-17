@@ -7,12 +7,16 @@ app.use(morgan('combined'));
 
 var articles = {
 'article-one' : {
-    title: 'Article one ',
-    heading: 'Article one',
+    title: 'About me ',
+    heading: 'About me',
     date: 'Oct 9, 2016',
     content: `<p>
-                This is article one. 
-            </p>`
+                Glad you came all the way here to know more about me! 
+                Well, let me start up by telling you, I'm just an ordinary guy. But then i'm this ordinary guys who thinks he can do extra ordinary or rather ordinary things in exra ordinary ways. 
+                How cliched would the world be if i started off about me with my name?! 
+                This ordinary guy hails from this city named Kochi in the district of Ernakulam in what is called God's own Country Kerala. I am fortunate to be part of the College of Engineering Trivandrum family to do my B.Tech in Computer Science and Engineering. Web App developement is a new area for me, but equally intriguing as well. What you see here is my first Web App - Humble in all senses. You can call this ordinary guy Nikhil. 
+                                                                                                                    -Nikhil Joji
+                </p>`
 },
 'article-two' : {
      title: 'Article two',
