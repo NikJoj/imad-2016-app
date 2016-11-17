@@ -9,7 +9,7 @@ var articles = {
 'article-one' : {
     title: 'About me ',
     heading: 'About me',
-    date: 'Oct 9, 2016',
+    date: 'Nov 17, 2016',
     content: `<p>
                 Glad you came all the way here to know more about me! </p>
                 <p>
