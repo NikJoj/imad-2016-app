@@ -36,12 +36,12 @@ var articles = {
                 <p> Date of birth: 16-10-1998 </p>
                 <p> Gender: Male </p>
                 <p> Education: Schooling at Toc H Public School, Ernakulam </p>
-                <p>         B.Tech at College Of Engineering Trivandrum (presesnt) </p>
+                <p>            B.Tech at College Of Engineering Trivandrum (presesnt) </p>
                 <p> Communication skills: English, Malayalam </p>
                 <p> Programming skills: C++ </p>
-                <p>                    Python </p>
-                <p>                    Basic HTML </p>
-                <p>                    MySQL </p>
+                <p>                     Python </p>
+                <p>                     Basic HTML </p>
+                <p>                     MySQL </p>
                 <p> Projects: Built Snake game using C++ </p>
                           
 </p>`
