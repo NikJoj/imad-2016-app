@@ -17,7 +17,7 @@ var articles = {
                 <p>
                 How cliched would it be if i started off about me with my name?! </p>
                 <p>
-                This ordinary guy hails from this city named Kochi in the district of Ernakulam in what is called God's own Country Kerala. I am fortunate to be part of the College of Engineering Trivandrum family to do my B.Tech in Computer Science and Engineering. Web App developement is a new area for me, but equally intriguing as well. What you see here is my first Web App - Humble in all senses. You can call this ordinary guy Nikhil. </p>
+                This ordinary guy hails from this city named Kochi in the district of Ernakulam in what is called God's own Country - Kerala. I am fortunate to be part of the College of Engineering Trivandrum family to do my B.Tech in Computer Science and Engineering. Web App developement is a new area for me, but equally intriguing as well. What you see here is my first Web App - Humble in all senses. You can call this ordinary guy Nikhil. </p>
                 <p>
                                                                                                                     -Nikhil Joji
                 </p>`
