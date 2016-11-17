@@ -23,11 +23,27 @@ var articles = {
                 </p>`
 },
 'article-two' : {
-     title: 'Article two',
-    heading: 'Article two',
-    date: 'Oct 9, 2016',
-    content: `<p>
-This is article two.
+     title: 'Resume',
+    heading: 'Resume',
+    date: 'Nov 17, 2016',
+    content: `
+                <p> Name: Nikhil Joji </p>
+                <p> City: Kochi </p>
+                <p> District: Ernakulam </p>
+                <p> Pincode: 682028 </p>
+                <p> Contact: 7994193939 </p>
+                <p> Email: nikhiljoji07@gmail.com </p>
+                <p> Date of birth: 16-10-1998 </p>
+                <p> Gender: Male </p>
+                <p> Education: Schooling at Toc H Public School, Ernakulam </p>
+                <p>         B.Tech at College Of Engineering Trivandrum (presesnt) </p>
+                <p> Communication skills: English, Malayalam </p>
+                <p> Programming skills: C++ </p>
+                <p>                    Python </p>
+                <p>                    Basic HTML </p>
+                <p>                    MySQL </p>
+                <p> Projects: Built Snake game using C++ </p>
+                          
 </p>`
 },
 'article-three' : {
