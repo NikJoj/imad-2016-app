@@ -1,5 +1,6 @@
 //counter code
 var button=document.getElementById('counter');
+var currentLocation = window.location.href;
 
 button.onclick=function() {
      
@@ -19,8 +20,7 @@ button.onclick=function() {
          }
      };
      
-     request.open('GET', 'http://nikjoj.imad.hasura-app.io/counter',true);
+     request.open('GET', currentLocation+'counter',true);
      request.send(null);
-
 
 };
